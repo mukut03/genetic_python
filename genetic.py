@@ -1,7 +1,4 @@
-"""Genetic Algorithmn Implementation
-see:
-http://www.obitko.com/tutorials/genetic-algorithms/ga-basic-description.php
-"""
+
 import random
 
 guess = input("Enter guess text")
